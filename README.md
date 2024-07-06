@@ -22,7 +22,7 @@ Para poder usar el proyecto se necesita instalar las siguientes tecnologías:
 Por defecto la base de datos lleva el nombre "loginweb" sin embargo, puede ser cambiado en las propiedades de la aplicacion de springboot reemplazando la cadena de conexión.
 
 ```sql
-USE login;
+USE loginweb;
 
  -- MySQL dump 10.13  Distrib 8.0.36, for Win64 (x86_64)
 --
